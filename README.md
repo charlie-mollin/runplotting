@@ -18,3 +18,7 @@ Pip installed certain geomapping packages to aid in this process.
 - Using Strava CSV, simple linear regression in terms of run length, there's no average pace on provided CSV which is a shame
 - Heat map by states, reference 2950 further geo packages, fortunately I have a good amount of coordinate data already accounted for.
 - Callback to tokenization/ vectorization, topic modeling (unsupervised/ supervised) and make predictiosn based on my comments/ titles? Not a large sample size but could be fun and a callback/ review to class. 
+
+### Goals
+- Improve general programming skills, shake off the rust during break
+- Improve GitHub version control skills — huge part of this project :)
